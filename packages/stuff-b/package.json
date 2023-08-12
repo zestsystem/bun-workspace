@@ -1,0 +1,7 @@
+{
+  "name": "stuff-b",
+  "dependencies": {
+    "stuff-a": "workspace:*"
+  },
+  "scripts": {}
+}

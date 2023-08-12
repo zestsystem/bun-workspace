@@ -1,0 +1,8 @@
+{
+  "name": "bun-workspace",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
